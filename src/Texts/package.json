@@ -1,0 +1,19 @@
+{
+  "name": "Texts",
+  "version": "0.0.0",
+  "description": "",
+  "author": "phillip96 <pavlicpm@mcmaster.ca>",
+  "main": "functions/__main__.js",
+  "dependencies": {},
+  "private": true,
+  "stdlib": {
+    "build": "faaslang",
+    "name": "phillip96/Texts",
+    "timeout": 10000,
+    "publish": true,
+    "personalize": {
+      "keys": [],
+      "user": []
+    }
+  }
+}
